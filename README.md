@@ -1,5 +1,5 @@
 # xpdf reader for-void
-This xbps includes the .desktop and sgv files
+This xbps includes the .desktop and svg files
 
 The Xpdf open source project includes a PDF viewer along with a collection of command line tools which perform various functions on PDF files:
 
