@@ -22,3 +22,5 @@ The viewer (xpdf / XpdfReader) uses the Qt toolkit.
 
 History
 Xpdf was first released in 1995. It was written, and is still developed, by Derek Noonburg.
+
+https://www.xpdfreader.com/index.html
